@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/pjcuadra/dnsmasq-docker.png?label=ready&title=Ready)](https://waffle.io/pjcuadra/dnsmasq-docker)
 #DNSmasq Docker Container
 
 This a docker container based on standard ubuntu:14.04 image.
